@@ -1,5 +1,6 @@
 # machinelearning
-##Experiments with machine learning
+
+## Experiments with machine learning
 
 Watch metrics
 Can understand what is behind the model
@@ -13,7 +14,7 @@ Can we simplify the experimentation system
 
 Git - source control
 Github
-VSCode extension ml experiments
+VSCode extension ml experiments DVC
 
 User --> code, metrics, params --->
 Git becomes single source of truth
